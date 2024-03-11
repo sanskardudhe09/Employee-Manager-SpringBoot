@@ -1,0 +1,13 @@
+package com.myspringboot.Employee.Admin.CRUD;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class EmployeeAdminCrudApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(EmployeeAdminCrudApplication.class, args);
+	}
+
+}
